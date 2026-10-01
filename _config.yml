@@ -23,7 +23,7 @@ repository               : "AlexBogaars/AlexBogaars.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/alexander.bogaars@bse.eu.jpg"
+  avatar           : "alexander.bogaars@bse.eu.jpg"
   name             : "Alexander Bogaars"
   pronouns         : # example: "she/her"  
   bio              : "Economics Postgraduate. Looking to develop Economics and data science skills."
