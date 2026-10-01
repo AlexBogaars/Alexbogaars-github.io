@@ -1,7 +1,8 @@
 ---
-title: "Your project title"
-excerpt: "One sentence: the question, the method, the result."
-collection: portfolio
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
 ---
 
-Write the project up here in Markdown.
+Research and working papers will go here.
