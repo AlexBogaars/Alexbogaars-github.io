@@ -9,13 +9,13 @@
 
 main:
   - title: "Projects"
-    url: /publications/
+    url: /Projects/
 
   - title: "Research"
-    url: /talks/    
+    url: /Research/    
 
   - title: "Macroeconomic notes"
-    url: /teaching/   
+    url: /Macroeconomic Notes/   
     
   - title: "CV"
     url: /cv/
