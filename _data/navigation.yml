@@ -9,14 +9,14 @@
 
 main:
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Research"
-    url: /Research/    
+    url: /research/
 
   - title: "Macroeconomic notes"
-    url: /Macroeconomic Notes/   
-    
+    url: /macro-notes/
+
   - title: "CV"
     url: /cv/
     
