@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Alexander Bogaars's Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,13 +22,13 @@ competitiveness and at Centennial Asia Advisors, I worked on macro research.
 
 - **Macro and policy analysis:** Macroeconometrics with a focus on Asia-Pacific economies
 - **Time-series and financial econometrics:** volatility modelling (GARCH),
-  GMM estimation, volatility modelling
+  GMM estimation, forecasting.
 - **Applied data science:** [e.g., building and validating predictive
   models from messy real-world data]
 
 ## Toolkit
 
-Python · R · Python · Stata · Matlab · Git/Github · Latex · SQL
+Python · R  · Stata · Matlab · Git/Github · Latex · SQL
 
 
 ## Featured work
