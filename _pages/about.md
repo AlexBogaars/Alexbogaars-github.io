@@ -42,4 +42,4 @@ Python · R  · Stata · Matlab · Git/Github · Latex · SQL
 MSc at BSE, working on developing deep Data Science skills and Macroeconomic knowledge. Open to opportunities
 in [Singapore / UK] from [07/2027].
 
-[Download my CV](/files/Alexander-Bogaars-CM-Resume.pdf.pdf) · [LinkedIn](https://www.linkedin.com/in/alexbogaars) · [GitHub](https://github.com/AlexBogaars)
+[LinkedIn](https://www.linkedin.com/in/alexbogaars) · [GitHub](https://github.com/AlexBogaars)
