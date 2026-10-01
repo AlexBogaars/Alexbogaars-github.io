@@ -1,7 +1,8 @@
 ---
-title: "Your project title"
-excerpt: "One sentence: the question, the method, the result."
-collection: portfolio
+layout: archive
+title: "Macroeconomic notes"
+permalink: /macro-notes/
+author_profile: true
 ---
 
-Write the project up here in Markdown.
+Short writeups on macroeconomic data and ideas will go here.
