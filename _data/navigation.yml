@@ -17,6 +17,9 @@ main:
   - title: "Macroeconomic notes"
     url: /macro-notes/
 
+    - title: "Weekly learning"
+    url: /weekly-learning/
+
   - title: "CV"
     url: /cv/
     
